@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\David\\Graphics Project\\Graphics-Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40003AE6-15DF-7CE4-0EE8-EA83607E1E85}|Assembly-CSharp.csproj|c:\\users\\david\\graphics project\\graphics-project\\assets\\shaders\\phong.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{40003AE6-15DF-7CE4-0EE8-EA83607E1E85}|Assembly-CSharp.csproj|solutionrelative:assets\\shaders\\phong.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40003AE6-15DF-7CE4-0EE8-EA83607E1E85}|Assembly-CSharp.csproj|c:\\users\\david\\graphics project\\graphics-project\\assets\\shaders\\pbr metalic.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{40003AE6-15DF-7CE4-0EE8-EA83607E1E85}|Assembly-CSharp.csproj|solutionrelative:assets\\shaders\\pbr metalic.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40003AE6-15DF-7CE4-0EE8-EA83607E1E85}|Assembly-CSharp.csproj|C:\\Users\\David\\Graphics Project\\Graphics-Project\\assets\\shaders\\holograph.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{40003AE6-15DF-7CE4-0EE8-EA83607E1E85}|Assembly-CSharp.csproj|solutionrelative:assets\\shaders\\holograph.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Phong.shader",
+              "DocumentMoniker": "C:\\Users\\David\\Graphics Project\\Graphics-Project\\Assets\\Shaders\\Phong.shader",
+              "RelativeDocumentMoniker": "Assets\\Shaders\\Phong.shader",
+              "ToolTip": "C:\\Users\\David\\Graphics Project\\Graphics-Project\\Assets\\Shaders\\Phong.shader",
+              "RelativeToolTip": "Assets\\Shaders\\Phong.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2024-10-30T02:39:07.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PBR Metalic.shader",
+              "DocumentMoniker": "C:\\Users\\David\\Graphics Project\\Graphics-Project\\Assets\\Shaders\\PBR Metalic.shader",
+              "RelativeDocumentMoniker": "Assets\\Shaders\\PBR Metalic.shader",
+              "ToolTip": "C:\\Users\\David\\Graphics Project\\Graphics-Project\\Assets\\Shaders\\PBR Metalic.shader",
+              "RelativeToolTip": "Assets\\Shaders\\PBR Metalic.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2024-10-30T02:38:06.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Holograph.shader",
+              "DocumentMoniker": "C:\\Users\\David\\Graphics Project\\Graphics-Project\\Assets\\Shaders\\Holograph.shader",
+              "RelativeDocumentMoniker": "Assets\\Shaders\\Holograph.shader",
+              "ToolTip": "C:\\Users\\David\\Graphics Project\\Graphics-Project\\Assets\\Shaders\\Holograph.shader",
+              "RelativeToolTip": "Assets\\Shaders\\Holograph.shader",
+              "ViewState": "AgIAAAcAAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2024-10-30T02:37:54.956Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
