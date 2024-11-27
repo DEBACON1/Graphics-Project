@@ -32,7 +32,6 @@ Shader "Custom/FirstShader"
             float2 uvMainTex;
             float2 uv_myTex;
             float3 worldRefl;
-
         };
 
         void surf(Input IN, inout SurfaceOutput o)

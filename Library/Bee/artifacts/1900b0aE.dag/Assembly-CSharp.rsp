@@ -358,6 +358,7 @@
 "Assets/Scripts/CameraController.cs"
 "Assets/Scripts/PlayerController.cs"
 "Assets/Scripts/ShaderChange.cs"
+"Assets/Scripts/Timer.cs"
 "Assets/Shaders/Camera Colors.cs"
 -langversion:9.0
 /deterministic

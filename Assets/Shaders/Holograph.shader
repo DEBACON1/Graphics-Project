@@ -3,7 +3,7 @@ Shader "Custom/Holograph"
     Properties
     {
         //Color
-        _RimColor ("Color", Color) = (0,1.0,0,0.0)
+        _RimColor ("Color", Color) = (1.0,1.0,1.0,0.0)
 
         //How bright the base brightness is
         _RimPower ("Rim Power", Range(0.5,8.0)) = 3.0
@@ -24,10 +24,19 @@ Shader "Custom/Holograph"
         struct Input
         {
             float3 viewDir;
+            float3 vertColor;
+            float3 worldRefl;
         };
 
         float4 _RimColor;
         float _RimPower;
+
+        struct appdata
+        {
+            float4 vertex: POSITION;
+            float3 normal: NORMAL;
+        };
+        
 
         void surf (Input IN, inout SurfaceOutput o)
         {
